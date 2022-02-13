@@ -1,0 +1,11 @@
+@media (min-height: $tablet-width) {
+  .site-list {
+    width: 570px;
+  }
+}
+
+@media (min-height: $desktop-width) {
+  .site-list {
+    width: 780px;
+  }
+}

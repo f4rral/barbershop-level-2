@@ -1,0 +1,15 @@
+// Переменные
+@import "global/variables.scss";
+
+// Миксины
+@import "global/mixins.scss";
+
+// Глобальные стили
+@import "global/global.scss";
+
+// Для разработки
+@import "global/outlines.scss";
+
+// Блоки
+@import "blocks/page-header.scss";
+@import "blocks/main-nav.scss";

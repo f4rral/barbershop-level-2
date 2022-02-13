@@ -1,0 +1,11 @@
+@media (min-height: $tablet-width) {
+  .user-list {
+    width: 60px;
+  }
+}
+
+@media (min-height: $desktop-width) {
+  .user-list {
+    width: 160px;
+  }
+}
